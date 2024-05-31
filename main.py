@@ -1,4 +1,4 @@
-from foo_parameterization import FooParameterization # type: ignore
+from fo_parameterization.foo_parameterization import FooParameterization # type: ignore
 #main function
 def main():
     try:
