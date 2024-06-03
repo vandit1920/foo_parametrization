@@ -1,6 +1,6 @@
 import unittest
 import math
-from fo_parameterization.foo_parameterization import FooParameterization # type: ignore
+from foo_parameterization.foo_parameterization import FooParameterization # type: ignore
 
 class TestFooParameterization(unittest.TestCase):
     def test_calculate_volume(self):
