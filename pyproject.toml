@@ -1,5 +1,5 @@
 [project]
-name = "foo_parameterization"
+name = "foo_parameterization_vandit"
 version = "0.1.0"
 authors = [
     { name="Vandit Jain", email="vanditjain19@gmail.com" },
