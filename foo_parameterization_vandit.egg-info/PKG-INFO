@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: foo_parameterization
+Name: foo_parameterization_vandit
 Version: 0.1.0
 Summary: Package to calculate the Foo et al. parameterization for a sphere.
 Home-page: https://github.com/vandit1920/foo_parametrization

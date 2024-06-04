@@ -17,3 +17,4 @@ class FooParameterization:
 
     def __str__(self):
         return f'FooParameterization(radius={self.radius})'
+

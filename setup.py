@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='foo_parameterization',  
+    name='foo_parameterization_vandit',  
     version='0.1',
     packages=find_packages(),
     install_requires=[],
